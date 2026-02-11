@@ -5,11 +5,11 @@ It uses reflection to access Unity’s internal `MainToolbarWindow` / `OverlayCa
 
 ### Before
 
-<img src="./docs/assets/main-toolbar.png" width="680">
+<img src="./assets/main-toolbar.png" width="680">
 
 ### After
 
-<img src="./docs/assets/main-toolbar-clean.png" width="680">
+<img src="./assets/main-toolbar-clean.png" width="680">
 
 ## Features
 
