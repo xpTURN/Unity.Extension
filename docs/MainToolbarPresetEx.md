@@ -3,6 +3,14 @@
 An editor extension that automatically applies a preset to the Unity editor main toolbar.  
 It uses reflection to access Unity’s internal `MainToolbarWindow` / `OverlayCanvas` and applies a preset that hides unwanted toolbar elements when the editor loads.
 
+### Before
+
+<img src="./docs/assets/main-toolbar.png" width="680">
+
+### After
+
+<img src="./docs/assets/main-toolbar-clean.png" width="680">
+
 ## Features
 
 - **Automatic preset application**: Applies the preset at `Assets/Settings/ToolbarPreset.asset` when the editor loads
