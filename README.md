@@ -1,5 +1,7 @@
 # Unity.Extension
 
+Source code for Unity Editor extensions.
+
 - [**MainToolbarPresetEx**](./docs/MainToolbarPresetEx.md)
 
 ## License
