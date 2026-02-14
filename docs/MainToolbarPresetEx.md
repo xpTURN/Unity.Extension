@@ -24,7 +24,7 @@ It can be useful when you want to provide the same UX to multiple people (e.g. a
 
 ## Location
 
-- **Script path**: `Unity.Misc/Assets/Scripts/Misc/Editor/MainToolbarPresetEx.cs`
+- **Script path**: [Unity.Misc/Assets/Scripts/Misc/Editor/MainToolbarPresetEx.cs](../Unity.Misc/Assets/Scripts/Misc/Editor/MainToolbarPresetEx.cs)
 
 ## Installation
 

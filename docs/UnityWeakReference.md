@@ -14,7 +14,7 @@ So when holding a weak reference to a Unity object, you can safely tell whether 
 ## Namespace / location
 
 - **Namespace**: `xpTURN.Coore`
-- **Script path**: `Unity.Misc/Assets/Scripts/Misc/UnityWeakReference.cs`
+- **Script path**: [Unity.Misc/Assets/Scripts/Misc/UnityWeakReference.cs](../Unity.Misc/Assets/Scripts/Misc/UnityWeakReference.cs)
 
 ## Usage example
 
