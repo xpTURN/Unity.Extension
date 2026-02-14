@@ -3,6 +3,7 @@
 Source code for Unity Editor extensions.
 
 - [**MainToolbarPresetEx**](./docs/MainToolbarPresetEx.md)
+- [**UnityWeakReference**](./docs/UnityWeakReference.md)
 
 ## License
 

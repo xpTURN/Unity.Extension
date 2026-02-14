@@ -22,6 +22,10 @@ It can be useful when you want to provide the same UX to multiple people (e.g. a
 
 - Unity 6.3 or later
 
+## Location
+
+- **Script path**: `Unity.Misc/Assets/Scripts/Misc/Editor/MainToolbarPresetEx.cs`
+
 ## Installation
 
 1. Clone or download this repository.
