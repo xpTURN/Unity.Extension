@@ -7,3 +7,6 @@
 **/[Uu]ser[Ss]ettings/
 **/[Ll]ogs/
 **/[Oo]bj/
+**/.vscode/
+**/*.csproj
+**/*.sln
