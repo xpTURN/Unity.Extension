@@ -2,10 +2,6 @@
 
 Source code for Unity Runtime/Editor extensions.
 
-## Runtime
-
-- [**UnityWeakReference**](./docs/UnityWeakReference.md)
-
 ## Editor
 
 - [**MainToolbarPresetEx**](./docs/MainToolbarPresetEx.md)
